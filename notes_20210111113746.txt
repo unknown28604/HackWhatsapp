@@ -1,0 +1,12 @@
+01.11 11:36
+$ pkg update
+$ pkg upgrade
+$ pkg install git
+$ pkg install python
+$ python3 -m pip install requests
+$ git clone https://github.com/unknown/HackWhatsapp
+$ clear
+$ ls
+$ cd HackWhatsapp
+$ ls
+$ python3 HackWhatsapp.py
